@@ -22,12 +22,10 @@ The Snake game developed with python can be controlled with the four direction b
 
 2. And Run it using Python interpreter
 
-3. You also can Download this project from github(https://github.com/gourahrikundu/cForum)  
+3. You also can Download this project from github(https://github.com/fuleswari220/SnakeGame/tree/main)  
     OR follow gitbash commands
     
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/gourahrikundu/cForum
+    i>git clone [https://github.com/gourahrikundu/cForum](https://github.com/fuleswari220/SnakeGame/tree/main)
     
 4. In case, You don't have python interpreter installed, Just visit the official website of Python and then download & install it
 
